@@ -1,0 +1,22 @@
+CHATBOT WITH RULE-BASED
+
+RESPONSES
+
+Build a simple chatbot that responds to user inputs based on
+predefined rules. Use if-else statements or pattern matching
+techniques to identify user queries and provide appropriate
+responses. This will give you a basic understanding of natural
+
+language processing and conversation flow.
+
+#How This Works:
+Uses simple if-elif-else rules to detect keywords in user input.
+Converts user input to lowercase for easy matching.
+Continues running until the user types 'exit' or 'bye'.
+
+#What You Learn from This:
+Basics of input handling.
+Basics of conversation flow control.
+How to create rules for responses.
+Importance of pattern matching.
+
